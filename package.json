@@ -1,0 +1,23 @@
+{
+  "name": "skp",
+  "version": "1.0.0",
+  "description": "this is demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "dfdf"
+  },
+  "keywords": [
+    "dfd"
+  ],
+  "author": "manoj",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "formidable": "^1.2.2",
+    "helper": "0.0.13",
+    "helpers": "0.0.6",
+    "multer": "^1.4.2"
+  }
+}
